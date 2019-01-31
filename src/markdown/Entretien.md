@@ -7,7 +7,7 @@ date: "2019-01-30"
 
 Prof. Karen Vasquez est la directrice du Vasquez Lab à l’Université du Texas à Austin, dans la faculté de pharmacie, et plus particulièrement dans la division pour pharmacologie et toxicologie. Son laboratoire compte actuellement 10 membres, et se spécialise dans des recherches sur des structures non canoniques de l’ADN, c’est-à-dire, des structures autres que la double hélice droitière normalement présente chez les êtres vivants. Les membres du laboratoire, dont Prof. Vasquez, ont publié plusieurs articles sur les structures à trois brins et leur possible utilisation en tant qu’outil thérapeutique.
 
-son aide nous a énormément aidés dans notre compréhension d'un sujet aussi vaste et complexe. Ci-dessous se trouvent des extraits de notre entretien avec elle, que nous avons trouvé particulièrement utiles. Comme ils sont en anglais, vous trouverez une version transcrivée et traduite à chaque fois.
+Son aide nous a énormément aidés dans notre compréhension d'un sujet aussi vaste et complexe. Ci-dessous se trouvent des extraits de notre entretien avec elle, que nous avons trouvé particulièrement utiles. Comme ils sont en anglais, vous trouverez une version transcrivée et traduite à chaque fois.
 
 ## Extraits d’entretien avec transcription
 
