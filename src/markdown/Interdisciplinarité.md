@@ -25,4 +25,4 @@ Les articles que nous avons étudiés proposaient des algorithmes ou des séquen
 
 ## Informatique: Site web et modèles 3D
 
-En plus de nos recherches sur la construction de codes de correction d’erreurs BCH, nous avons également construit ce site, écrit en markdown. Nous avons aussi créé des modèles 3D des structures normales et triplexes d’ADN, qu’on pourra ensuite imprimer en 3D.
+En plus de nos recherches sur la construction de codes de correction d’erreurs BCH, nous avons également construit ce site, écrit en Gatsby JS. Nous avons aussi créé des modèles 3D des structures normales et triplexes d’ADN, qu’on pourra ensuite imprimer en 3D.

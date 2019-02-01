@@ -19,7 +19,7 @@ export default () =>
         <h2>L'ADN Triplexe</h2>
         <p>Ici, nous vous présentons la majorité de notre recherche, allant des débuts de la théorie d'ADN triplexe, au potentiel future d'une téchnologie triplexe. Il se divise donc en trois sous-parties:</p>
         <ul type="circle">
-          <li><Link to={`passe`}>Origines du théorie</Link></li>
+          <li><Link to={`passe`}>Origines de la théorie</Link></li>
           <li><Link to={`aujoudhui`}>Triplexes aujourd'hui</Link></li>
           <li><Link to={`futur`}>Potentiel médical futur</Link></li>
         </ul>
